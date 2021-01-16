@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/sabattle/CalypsoBot"><img src="./data/images/Calypso_Title.png"></a>
   <br>
-  Calypso Discord Bot
+  MENTL Discord Bot
   <br>
 </h1>
 
@@ -41,13 +41,13 @@
 
 ## About
 
-Calypso is an open source, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discordapp.com/oauth2/authorize?client_id=416451977380364288&scope=bot&permissions=403008599) link! Also, you can join the official [Calypso Support Server](https://discord.gg/pnYVdut) for all questions, suggestions, and assistance!
+MENTL is a fully customizable Discord bot that is constantly growing. He comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds. You can invite her to your Discord server using [this](https://discordapp.com/oauth2/authorize?client_id=416451977380364288&scope=bot&permissions=403008599) link! Also, you can join the official [Calypso Support Server](https://discord.gg/pnYVdut) for all questions, suggestions, and assistance!
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Calypso!
 
 ## Features
 
-**110+** commands and counting across **8** different categories!
+**110+** commands and counting across **8+** different categories!
 
   * **Administration:** A huge amount of settings to customize with commands like `setprefix`, `setwelcomemessage`, and `setverificationrole`
   * **Moderation:** Commands such as `kick`, `ban`, and `mute` to assist your moderator staff
@@ -58,7 +58,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Caly
   * **Owner:** Owner specific commands like `eval` and `servers`
   * **Miscellaneous:** All other commands like `feedback` and `bugreport`
 
-Calypso also comes packed with a variety of features, such as:
+MENTL also comes packed with a variety of features, such as:
 
   * **Auto role** assignment
   * Server **verification** via reactions
@@ -74,7 +74,7 @@ Calypso also comes packed with a variety of features, such as:
 
 ## Installation
 
-You can add Calypso to your server with [this](https://discordapp.com/oauth2/authorize?client_id=416451977380364288&scope=bot&permissions=403008599) link! Alternatively, you can clone this repo and host the bot yourself.
+You can add MENTL to your server with [this](https://discordapp.com/oauth2/authorize?client_id=416451977380364288&scope=bot&permissions=403008599) link! Alternatively, you can clone this repo and host the bot yourself.
 ```
 git clone https://github.com/sabattle/CalypsoBot.git
 ```
@@ -125,21 +125,9 @@ To add colors manually, first create a few empty roles at the bottom of your ser
 
 ## To-Do
 
-Calypso is in a continuous state of development. New features/updates may come at any time. Some pending ideas are:
+MENTL is in a continuous state of development. New features/updates may come at any time. Some pending ideas are:
 
   * Music
   * Automod
   * Stream alerts
   * Custom tag/reaction system
-
-## License
-
-Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
-
-## Credits
-
-* **Sebastian Battle** - *Initial work* - [github](https://github.com/sabattle)
-* **Kyle Glaws** - [github](https://github.com/krglaws)
-* **CommradeFido#5286** - *All art and graphics*
-* **Red Discord Bot** - *Initial trivia* - [github](https://github.com/Cog-Creators/Red-DiscordBot/blob/V3/develop/README.md#join-the-community)
-* **Threebow** - *Ideas and tutorials* - [github](https://github.com/Threebow)
